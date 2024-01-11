@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..\..</DockerfileContext>
+    <DockerComposeProjectPath>..\..\..\docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BuildingBlocks\Post.Query.Common\Post.Query.Common.csproj" />
+    <ProjectReference Include="..\..\..\BuildingBlocks\Post.Query.Core\Post.Query.Core.csproj" />
+    <ProjectReference Include="..\Post.Domain\Post.Domain.csproj" />
+    <ProjectReference Include="..\Post.Infrastructure\Post.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

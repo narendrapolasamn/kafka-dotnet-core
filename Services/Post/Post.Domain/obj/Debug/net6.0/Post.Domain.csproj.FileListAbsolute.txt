@@ -1,0 +1,17 @@
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\bin\Debug\net6.0\Post.Domain.deps.json
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\bin\Debug\net6.0\Post.Domain.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\bin\Debug\net6.0\Post.Domain.pdb
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\bin\Debug\net6.0\Post.Query.Common.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\bin\Debug\net6.0\Post.Query.Core.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\bin\Debug\net6.0\Post.Query.Common.pdb
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\bin\Debug\net6.0\Post.Query.Core.pdb
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\Post.Domain.csproj.AssemblyReference.cache
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\Post.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\Post.Domain.AssemblyInfoInputs.cache
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\Post.Domain.AssemblyInfo.cs
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\Post.Domain.csproj.CoreCompileInputs.cache
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\Post.Domain.csproj.CopyComplete
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\Post.Domain.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\refint\Post.Domain.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\Post.Domain.pdb
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\Services\Post\Post.Domain\obj\Debug\net6.0\ref\Post.Domain.dll

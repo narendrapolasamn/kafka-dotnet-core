@@ -1,0 +1,15 @@
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\bin\Debug\net6.0\Post.Query.Common.deps.json
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\bin\Debug\net6.0\Post.Query.Common.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\bin\Debug\net6.0\Post.Query.Common.pdb
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\bin\Debug\net6.0\Post.Query.Core.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\bin\Debug\net6.0\Post.Query.Core.pdb
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\Post.Query.Common.csproj.AssemblyReference.cache
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\Post.Query.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\Post.Query.Common.AssemblyInfoInputs.cache
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\Post.Query.Common.AssemblyInfo.cs
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\Post.Query.Common.csproj.CoreCompileInputs.cache
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\Post.Query.Common.csproj.CopyComplete
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\Post.Query.Common.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\refint\Post.Query.Common.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\Post.Query.Common.pdb
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Common\obj\Debug\net6.0\ref\Post.Query.Common.dll

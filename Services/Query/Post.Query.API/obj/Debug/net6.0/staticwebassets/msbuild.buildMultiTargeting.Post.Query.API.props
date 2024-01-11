@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Post.Query.API.props" />
+</Project>

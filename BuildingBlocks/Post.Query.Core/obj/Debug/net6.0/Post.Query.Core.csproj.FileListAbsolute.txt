@@ -1,0 +1,12 @@
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\bin\Debug\net6.0\Post.Query.Core.deps.json
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\bin\Debug\net6.0\Post.Query.Core.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\bin\Debug\net6.0\Post.Query.Core.pdb
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\obj\Debug\net6.0\Post.Query.Core.csproj.AssemblyReference.cache
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\obj\Debug\net6.0\Post.Query.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\obj\Debug\net6.0\Post.Query.Core.AssemblyInfoInputs.cache
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\obj\Debug\net6.0\Post.Query.Core.AssemblyInfo.cs
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\obj\Debug\net6.0\Post.Query.Core.csproj.CoreCompileInputs.cache
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\obj\Debug\net6.0\Post.Query.Core.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\obj\Debug\net6.0\refint\Post.Query.Core.dll
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\obj\Debug\net6.0\Post.Query.Core.pdb
+D:\Naren\DotnetCore\Implementations\kafka\kafka-evensource-api\BuildingBlocks\Post.Query.Core\obj\Debug\net6.0\ref\Post.Query.Core.dll
