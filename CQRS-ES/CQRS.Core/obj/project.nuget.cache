@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJa0g6L5YgQCNVAMBv9YF5YIGZjk37yyrRFP+l6SDOHXwbxRGiQ2mgwnFt+MFXhwiOpDamDflHD0pDWxf+GdMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naren\\Downloads\\.NetCore\\Kafka\\kafka-dotnet-core\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naren\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\naren\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\naren\\.nuget\\packages\\mongodb.driver\\2.14.1\\mongodb.driver.2.14.1.nupkg.sha512",
+    "C:\\Users\\naren\\.nuget\\packages\\mongodb.driver.core\\2.14.1\\mongodb.driver.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\naren\\.nuget\\packages\\mongodb.libmongocrypt\\1.3.0\\mongodb.libmongocrypt.1.3.0.nupkg.sha512",
+    "C:\\Users\\naren\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\naren\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\naren\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
